@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	cmdTrigger = "createtask"
+	cmdTrigger = "testcmd"
 	webhookUrl = "https://influencersu1.uforce.pro/test_webhook"
 )
 
