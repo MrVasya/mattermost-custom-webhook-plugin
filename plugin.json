@@ -1,6 +1,6 @@
 {
-    "id": "com.mattermost.plugin-demo",
-    "name": "Hello World",
+    "id": "com.mattermost.custom-outgoing-webhook-command",
+    "name": "Custom Outgoing Webhook Command",
     "server": {
         "executable": "plugin.exe"
     }
