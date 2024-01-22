@@ -1,4 +1,4 @@
-module github.com/uForce-Automation/plugin-demo
+module github.com/MrVasya/plugin-demo
 
 go 1.21.4
 
