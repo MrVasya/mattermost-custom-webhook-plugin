@@ -11,7 +11,7 @@ import (
 
 const (
 	cmdTrigger = "testcmd"
-	webhookUrl = "https://influencersu1.uforce.pro/test_webhook"
+	webhookUrl = "https://test_webhook.com"
 )
 
 // OnActivate register the plugin command
